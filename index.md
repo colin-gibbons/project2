@@ -16,7 +16,7 @@ With a mainstream career of only 4 years, Jimi Hendrix's influence on music can 
 ## NF
 ![NF]({{ "/images/NF.jpg" | absolute_url }})
 
-NF is the stage name of rapper and composer Nate Feuerstein, whose raw emotions and honest lyrics helped him storm the upper reaches of the charts with his third album, Perception. Feuerstein endured a hardship-filled childhood in which his parents divorced, his mother's boyfriend physically abused him, and his mother eventually killed herself. Music was his escape.The album attracted the attention of Xist Music, which signed him to a recording deal in 2012, by which time he had taken on the stage name of NF.
+NF is the stage name of rapper and composer Nate Feuerstein, whose raw emotions and honest lyrics helped him storm the upper reaches of the charts with his third album, Perception. Feuerstein endured a hardship-filled childhood during which his parents divorced, his mother's boyfriend physically abused him, and his mother eventually killed herself. Music was his escape.The album attracted the attention of Xist Music, which signed him to a recording deal in 2012, by which time he had taken on the stage name of NF.
 
 ## Pink Floyd
 ![Pink Floyd]({{ "/images/pink.jpg" | absolute_url }})
@@ -28,30 +28,5 @@ They were an English rock band formed in London in 1965. They achieved internati
 ![Beethoven]({{ "/images/Beethoven.jpg" | absolute_url }})
 
 Ludwig van Beethoven, born in December 17, 1770, was one of the most famous musicians ever to have lived. Unlike most other musicians (who's music can be firmly placed in one music era), Beethoven lived during the transition between the Classical and Romantic music period. Beethoven's first music teacher was his father. One could potentially argue that his music played a hand in transitioning the style of western music. Classical music, at the time, was recognized for its complexity and grandiosity. While Beethoven had composed pieces that conformed to this style, his later work demonstrated the more emotional and unstable style that he is most recognized for today. 
-
-
-## Markdown
-### good reference for how to format stuff
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
