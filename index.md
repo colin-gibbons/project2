@@ -11,7 +11,7 @@ worldwide, and are probably the only band to have a roller coaster built to memo
 
 ## Jimi Hendrix
 ![Jimi Hendrix]({{ "/images/hendrix.jpg" | absolute_url }})
-With a mainstream career of only four years, Jimi Hendrix's influence on music can still be heard today. He changed how people play the electric guitar, turing feedback and distortion into an art form. Hendrix is known for combining rock and roll with the blues, and for playing rhythm guitar like no one before. His most famous performance was at Woodstock in 1969. During his rendition of the star spangled banner, he used the whammy bar and distortion to simulate the sounds of jet fighters, machine guns, and bombs. Only a year after this performance, he died from an accidental drug overdose at 27 years old.
+With a mainstream career of only 4 years, Jimi Hendrix's influence on music can still be heard today. He changed how people play the electric guitar, turing feedback and distortion into an art form. Hendrix is known for the combining of rock and roll with the blues, and for playing rhythm guitar like no one before. His most famous performance was at Woodstock in 1969. During his rendition of the star spangled banner, he used the whammy bar and distortion to simulate the sounds of jet fighters, machine guns, and bombs. Only a year after this performance, he died from an accidental drug overdose at 27 years old.
 
 ## NF
 ![NF]({{ "/images/NF.jpg" | absolute_url }})
