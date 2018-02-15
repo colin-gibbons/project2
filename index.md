@@ -1,5 +1,5 @@
-## TCMG Music?
-THE place to post anything music related. Also hopefully merge conflicts.
+## TCMG Music
+THE place to post anything music related.
 
 ## **Aerosmith**
 ![Aerosmith]({{ "/images/Aerosmith.png" | absolute_url }})
