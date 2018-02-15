@@ -1,6 +1,5 @@
 ## TCMG Music
-## TCMG Merge Conflicts
-THE place create merge conflicts, and to post anything music related.
+THE place to post anything music related.
 
 ## **Aerosmith**
 ![Aerosmith]({{ "/images/Aerosmith.png" | absolute_url }})
