@@ -21,7 +21,7 @@ NF is the stage name of rapper and composer Nate Feuerstein, whose raw emotions 
 ## Beethoven
 ![Beethoven]({{ "/images/Beethoven.jpg" | absolute_url }})
 
-Ludwig van Beethoven (born in Bonn, Germany, on December 16, 1770) was one of the most famous musicians ever to have lived. Unlike most other musicians (who's music can be firmly placed in one music era), Beethoven lived during the transition between the Classical and Romantic music period. One could potentially argue that his music played a hand in transitioning the style of western music. Classical music, at the time, was recognized for its complexity and grandiosity. While Beethoven had composed pieces that conformed to this style, his later work demonstrated the more emotional and unstable style that he is most recognized for today. 
+Ludwig van Beethoven was one of the most famous musicians ever to have lived. Unlike most other musicians (who's music can be firmly placed in one music era), Beethoven lived during the transition between the Classical and Romantic music period. One could potentially argue that his music played a hand in transitioning the style of western music. Classical music, at the time, was recognized for its complexity and grandiosity. While Beethoven had composed pieces that conformed to this style, his later work demonstrated the more emotional and unstable style that he is most recognized for today. 
 
 ## Markdown
 ### good reference for how to format stuff
