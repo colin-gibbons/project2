@@ -21,7 +21,7 @@ NF is the stage name of rapper and composer Nate Feuerstein, whose raw emotions 
 ## Pink Floyd
 ![Pink Floyd]({{ "/images/pink.jpg" | absolute_url }})
 
-They were an English rock band formed in London in 1965. They achieved international acclaim with their progressive and psychedelic music. Distinguished by their use of philosophical lyrics, sonic experimentation, extended compositions, and elaborate live shows, they are one of the most commercially successful and influential groups in popular music history. Their most famous song is "Another Brick in the Wall".
+They were an English rock band formed in London in 1965. They achieved international stardom with their progressive and psychedelic music. Distinguished by their use of philosophical lyrics, sonic experimentation, extended compositions, and elaborate live shows. They are one of the most commercially successful and influential groups in popular music history. Their most famous song is "Another Brick in the Wall".
 
 
 ## Beethoven
