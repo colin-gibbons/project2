@@ -1,4 +1,4 @@
-## Technology + Music
+## TCMG Music
 THE place to post anything music related.
 
 ## **Aerosmith**
