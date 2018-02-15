@@ -13,6 +13,11 @@ worldwide, and are probably the only band to have a roller coaster built to memo
 ![Jimi Hendrix]({{ "/images/hendrix.jpg" | absolute_url }})
 With a mainstream career of only 4 years, Jimi Hendrix's influence on music can still be heard today. He changed how people play the electric guitar, turing feedback and distortion into an art form. Hendrix is known for the combining of rock and roll with the blues, and for playing rhythm guitar like no one before. His most famous performance was at Woodstock in 1969. During his rendition of the star spangled banner, he used the whammy bar and distortion to simulate the sounds of jet fighters, machine guns, and bombs. Only a year after this performance, he died from an accidental drug overdose at 27 years old.
 
+## Pink Floyd
+![Pink Floyd]({{ "/images/pink.jpg" | absolute_url }})
+
+They were an English rock band formed in London in 1965. They achieved international acclaim with their progressive and psychedelic music. Distinguished by their use of philosophical lyrics, sonic experimentation, extended compositions, and elaborate live shows, they are one of the most commercially successful and influential groups in popular music history.
+
 ## NF
 ![NF]({{ "/images/NF.jpg" | absolute_url }})
 
