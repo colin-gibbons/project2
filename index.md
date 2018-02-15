@@ -18,14 +18,16 @@ With a mainstream career of only 4 years, Jimi Hendrix's influence on music can 
 
 NF is the stage name of rapper and composer Nate Feuerstein, whose raw emotions and honest lyrics helped him storm the upper reaches of the charts with his third album, Perception. Feuerstein endured a hardship-filled childhood in which his parents divorced, his mother's boyfriend physically abused him, and his mother eventually killed herself. Music was his escape.The album attracted the attention of Xist Music, which signed him to a recording deal in 2012, by which time he had taken on the stage name of NF.
 
+![Pink Floyd]({{ "/images/pink.jpg" | absolute_url }})
+
+They were an English rock band formed in London in 1965. They achieved international acclaim with their progressive and psychedelic music. Distinguished by their use of philosophical lyrics, sonic experimentation, extended compositions, and elaborate live shows, they are one of the most commercially successful and influential groups in popular music history.
+
+
 ## Beethoven
 ![Beethoven]({{ "/images/Beethoven.jpg" | absolute_url }})
 
 Ludwig van Beethoven was one of the most famous musicians ever to have lived. Unlike most other musicians (who's music can be firmly placed in one music era), Beethoven lived during the transition between the Classical and Romantic music period. One could potentially argue that his music played a hand in transitioning the style of western music. Classical music, at the time, was recognized for its complexity and grandiosity. While Beethoven had composed pieces that conformed to this style, his later work demonstrated the more emotional and unstable style that he is most recognized for today. 
 
-![Pink Floyd]({{ "/images/pink.jpg" | absolute_url }})
-
-They were an English rock band formed in London in 1965. They achieved international acclaim with their progressive and psychedelic music. Distinguished by their use of philosophical lyrics, sonic experimentation, extended compositions, and elaborate live shows, they are one of the most commercially successful and influential groups in popular music history
 
 ## Markdown
 ### good reference for how to format stuff
